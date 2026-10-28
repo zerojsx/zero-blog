@@ -21,3 +21,9 @@ No prescribir una secuencia cerrada de subtítulos o cantidades de palabras por 
 “Después de entender [resultado útil], aparece [nueva dificultad real]. [Por qué importa en una oración]. [Invitación discreta a leer el artículo relacionado o seguir el blog].”
 
 Es una herramienta de análisis, no un texto que deba copiarse. Consultar la ficha del artículo y los títulos de Drive.
+
+## Condensación narrativa
+
+Antes de abreviar, identificar el recorrido que permite comprender el tema. Conservar una entrada comprensible para alguien ajeno al oficio, el mecanismo central, una aplicación práctica y las preguntas esenciales. Recortar primero repeticiones, escenas largas y ejemplos duplicados. Unificar explicaciones relacionadas en párrafos fluidos. Mantener las alternativas importantes, pero evitar catálogos de opciones y jerga que fuerce al lector a investigar por su cuenta.
+
+Si el usuario fija un límite de páginas, medirlo con el documento Word renderizado, con tamaño de letra y márgenes razonables. El número de palabras es orientativo; la cantidad de páginas debe verificarse. La longitud acordada es específica de cada artículo, no una norma para todos los contenidos.
