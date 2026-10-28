@@ -61,3 +61,7 @@ El dossier de Drive contiene la investigación y enlaces de respaldo (Stripe Atl
 
 ## Ajuste pedagógico de la apertura (2026-10-28)
 El lector del artículo 03 también puede ser una persona sin experiencia programando que se interese por este modelo de negocio. En la variante narrativa, presentar desde el comienzo un uso cotidiano de software bajo suscripción, identificarlo como SaaS y explicar quién lo ofrece, quién paga y qué se mantiene disponible. Después puede aparecer la dificultad de conseguir los primeros clientes. La apertura anterior sobre un programador que había terminado su aplicación exigía demasiada familiaridad técnica y demoraba varios párrafos en nombrar el modelo que explicaba.
+
+## Artículo 03, versión breve
+
+Se conserva el comienzo con un SaaS de turnos explicado desde el primer párrafo para lectores sin experiencia técnica. El recorrido conecta utilidad, posibles compradores, canales de adquisición, prueba, pago y permanencia. El CTA abre el tema de precios del artículo 04. La versión solicitada tiene un límite puntual de tres páginas y media en Word, que se verifica por renderizado. Reducir repeticiones y escenas secundarias antes de eliminar conceptos imprescindibles. Mantener el texto de Lucía independiente.
