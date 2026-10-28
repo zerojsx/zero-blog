@@ -5,6 +5,7 @@ Registrar solo acuerdos estables o explícitamente aceptados. Detalles por artí
 | Fecha | Alcance | Decisión aceptada | Ubicación canónica |
 | --- | --- | --- | --- |
 | 2026-10-28 | General | Voz dirigida a una sola persona, voseo rioplatense, argumento causal continuo, ironía seca cuando aporte, sin fórmulas artificiales | docs/VOICE.md |
+| 2026-10-28 | General | Artículos narrativos sin dos puntos ni guiones medios en el cuerpo; evitar «no es X, sino Y», catálogos recurrentes y subtítulos estructurales; mantener transiciones fluidas y pocos resaltados funcionales | docs/VOICE.md |
 | 2026-10-28 | General | Dossier comprensible para editor sin especialización: situación cotidiana, explicación de términos, transferencia y glosario pertinente | docs/PEDAGOGY.md |
 | 2026-10-28 | General | Distinguir material de formación de artículo; evaluar el artículo mediante preguntas centrales abiertas, sin secuencia rígida obligatoria | skills/zero-blog/SKILL.md |
 | 2026-10-28 | General | CTA editorial: conclusión útil y siguiente pregunta real; vincular artículos de la serie verificando títulos y estado | docs/VOICE.md |
