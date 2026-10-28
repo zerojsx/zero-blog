@@ -3,6 +3,14 @@
 ## Principio rector
 **No confundir inteligencia con familiaridad técnica.** Una persona adulta comprende relaciones complejas si dispone de los conocimientos que las hacen interpretables. No simplificar hasta perder precisión; explicar lo que normalmente da por supuesto un experto.
 
+
+## Apertura y orientación para audiencias mixtas
+En los primeros párrafos, ubicar al lector en el **tema, la función concreta y la oportunidad**. Una persona que no programa debe comprender desde el inicio qué servicio o actividad está leyendo y por qué podría importarle. Si el tema es un SaaS, nombrarlo y explicar su funcionamiento básico al presentar el primer ejemplo, sin dejar la clasificación para varios párrafos después.
+
+No abrir automáticamente desde la perspectiva de un programador que terminó de codificar, publicó una aplicación o mira sus registros. Esa situación puede servir más adelante, una vez que el lector reconozca el producto y el problema humano o comercial que resuelve. Evitar desarrollar una escena de nicho durante varios párrafos antes de revelar el concepto central.
+
+La entrada ha de generar curiosidad mediante una consecuencia reconocible en la vida de un negocio y una pregunta pertinente que permita avanzar; luego incorporar gradualmente vocabulario, clientes, ventas y detalles técnicos. La contextualización debe ser breve y orgánica, sin crear un prólogo instructivo ni explicar definiciones desconectadas.
+
 ## Secuencia útil
 1. Situación conocida: por ejemplo Netflix como servicio accesible mediante suscripción.
 2. Funcionamiento concreto: muchas personas entran al mismo producto; las funciones generales se mantienen para todas; el proveedor mantiene el acceso y la operación.
