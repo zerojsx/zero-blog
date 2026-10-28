@@ -8,6 +8,12 @@ No prescribir una secuencia cerrada de subtítulos o cantidades de palabras por 
 - Qué ideas o datos deben ser rigurosos, qué vocabulario hay que explicar y qué ejemplos ayudan.
 - Qué otras preguntas quedan abiertas, y si existe un artículo relacionado de la serie.
 
+## Ampliar con propósito cuando la versión breve queda superficial
+En lugar de añadir introducciones, metáforas o relleno, identificar tramos donde la explicación salta de una idea a una conclusión sin enseñar **cómo comprobarla**. Añadir una consecuencia o decisión práctica dentro del mismo hilo narrativo. Revisar especialmente si falta profundidad en los criterios para reconocer una necesidad, elegir una manera de encontrar al público, acordar qué se espera de una prueba y aprender de lo ocurrido.
+
+Preferir una experiencia concreta y transferible frente a tres ejemplos redundantes. Evitar que las nuevas líneas repitan lo dicho, añadan jerga, transformen el texto en un catálogo o impongan nuevos subtítulos. La cantidad de palabras solicitada es aproximada; revisar la densidad del aprendizaje antes de aceptar el resultado.
+
+**Precedente aprobado, 2026-10-28:** el artículo SaaS 03 pasó de 1.154 a 1.491 palabras agregando explicaciones sobre consecuencias de problemas, confianza, selección de canales, acuerdos y evaluación de una prueba, y costo del esfuerzo comercial y de atención. Ver topics/saas/03-primeros-clientes.md y el Google Doc allí enlazado. La extensión de 1.491 palabras no es un estándar universal.
 ## Revisar después
 - ¿Resuelve las preguntas con claridad, causalidad y consejos aplicables?
 - ¿Una persona principiante puede seguirlo sin conocimientos implícitos?

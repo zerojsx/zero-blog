@@ -11,6 +11,12 @@ No abrir automáticamente desde la perspectiva de un programador que terminó de
 
 La entrada ha de generar curiosidad mediante una consecuencia reconocible en la vida de un negocio y una pregunta pertinente que permita avanzar; luego incorporar gradualmente vocabulario, clientes, ventas y detalles técnicos. La contextualización debe ser breve y orgánica, sin crear un prólogo instructivo ni explicar definiciones desconectadas.
 
+## Profundidad pedagógica sin redundancia
+Un texto es más útil cuando explica las **consecuencias que permiten decidir**. Tras presentar un problema, mostrar cómo investigar si realmente sucede, a quién afecta y qué costo o dificultad genera. Si se propone una solución, explicar cómo podría probarse y qué observación permitiría reconocer un beneficio. Para una persona sin experiencia técnica, ese recorrido aporta más comprensión que agregar términos o un segundo ejemplo similar.
+
+Al expandir una versión condensada, localizar la pregunta que quedó sin respuesta. Agregar un párrafo breve que cubra el mecanismo ausente y continuar con la narración original. La expansión puede aclarar riesgos razonables (continuidad del servicio, confianza o cuidado de información), criterios de elección (por qué una vía encaja con cierto comprador) o evaluación (qué resultado observar). Cada párrafo nuevo debe modificar lo que el lector **entiende o puede decidir**.
+
+No exigir que todos los artículos contengan estas mismas escenas. Usar el caso de SaaS 03 como evidencia editorial de un método transferible, no como estructura prescriptiva.
 ## Secuencia útil
 1. Situación conocida: por ejemplo Netflix como servicio accesible mediante suscripción.
 2. Funcionamiento concreto: muchas personas entran al mismo producto; las funciones generales se mantienen para todas; el proveedor mantiene el acceso y la operación.

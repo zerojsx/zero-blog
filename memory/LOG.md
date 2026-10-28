@@ -9,3 +9,4 @@ Formato: **AAAA-MM-DD | alcance | cambio | referencia**. Máximo una oración po
 - 2026-10-28 | voz editorial general | Se fijó narrativa fluida sin dos puntos, guiones medios, listados recurrentes ni contrastes correctivos, con pocos subtítulos funcionales | docs/VOICE.md
 
 - 2026-10-28 | SaaS 03 y edición breve | Se validó una apertura accesible y una versión condensada de tres páginas Word, preservando las cinco preguntas y el CTA de precios | templates/ARTICLE-CRITERIA.md, topics/saas/03-primeros-clientes.md
+- 2026-10-28 | redacción aprobada / SaaS 03 | Se validó en Drive la versión de 1.491 palabras y se formalizó cómo ampliar una narración mediante criterios de decisión y evaluación, manteniendo intacto el texto de Lucía | skills/zero-blog/SKILL.md, templates/ARTICLE-CRITERIA.md, topics/saas/03-primeros-clientes.md

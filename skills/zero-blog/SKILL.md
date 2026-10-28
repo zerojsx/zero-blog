@@ -35,6 +35,10 @@ Ayudar a editores y agentes a convertir investigación en artículos claros, út
 - Las cifras y afirmaciones empíricas necesitan fuentes. Las conclusiones deben ser coherentes con el nivel de conocimiento del lector.
 - Revisar contra templates/ARTICLE-CRITERIA.md y la ficha específica.
 
+### Expansión editorial basada en una versión aprobada
+Cuando una versión breve ya resulta clara y el usuario pide más profundidad, detectar primero las **lagunas de decisión**, no aumentar palabras por sí mismas. Desarrollar una situación concreta que responda qué observar, por qué importa, qué haría la persona y cómo verificar el resultado. Integrar ese desarrollo en el punto causal donde aparece la duda, conservando la voz y el ejemplo principal.
+
+Referencias canónicas para este aprendizaje: docs/PEDAGOGY.md (enseñanza progresiva), templates/ARTICLE-CRITERIA.md (expansión con propósito) y topics/saas/03-primeros-clientes.md (aplicación aprobada de 1.491 palabras). No copiar el caso SaaS como plantilla literal ni asumir que su cantidad de palabras sirve para otras publicaciones.
 ## Flujo D — Cierre y CTA editorial
 - Cerrar la idea principal aportando una conclusión útil; enlazarla con una pregunta vecina que justifique seguir leyendo.
 - Preferir una invitación a un artículo real y relacionado de la serie; consultar títulos y estado en el índice temático/Drive antes de prometer disponibilidad.

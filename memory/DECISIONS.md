@@ -11,6 +11,8 @@ Registrar solo acuerdos estables o explícitamente aceptados. Detalles por artí
 | 2026-10-28 | General | CTA editorial: conclusión útil y siguiente pregunta real; vincular artículos de la serie verificando títulos y estado | docs/VOICE.md |
 | 2026-10-28 | Caso SaaS 03 | Cinco preguntas mínimas, cinco alternativas de cierre y glosario de 20 conceptos antes de las preguntas | topics/saas/03-primeros-clientes.md |
 | 2026-10-28 | Caso SaaS 03 | Preferir cierre hacia artículo 04 sobre precio y margen; 05 y 02 como alternativas contextualizadas | topics/saas/INDEX.md |
+| 2026-10-28 | General | Ampliar profundidad solo cuando falta enseñar una relación causal, criterio de decisión o comprobación; insertar esa explicación en el relato sin sumar ejemplos ni relleno automáticamente | templates/ARTICLE-CRITERIA.md, docs/PEDAGOGY.md |
+| 2026-10-28 | Caso SaaS 03 | Versión alternativa de 1.491 palabras aprobada como referente de estilo y pedagogía, no como extensión fija; conservar por separado el artículo de Lucía | topics/saas/03-primeros-clientes.md |
 | 2026-10-28 | Operación | Conservar contexto en niveles general/tema/artículo; actualizar índice y log conciso al aceptar cambios duraderos | AGENTS.md |
 
 **Evolución:** al cambiar una decisión, editar esta tabla para dejar vigente una sola versión, y registrar el cambio en LOG.md. Las ideas no aprobadas permanecen como hipótesis en la ficha de trabajo.
