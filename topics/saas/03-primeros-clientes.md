@@ -96,3 +96,7 @@ Se conserva el comienzo con un SaaS de turnos explicado desde el primer párrafo
 **Control pendiente antes de publicación:** reubicar bajo el subtítulo adecuado las explicaciones de canales que aparecen después de «Mostrar, probar y cobrar»; revisar el rol «recepcionista» en una pizzería, «encargado/dueño/gerente», tildes y espacios; matizar afirmaciones universales sobre la velocidad de recomendaciones. En la quinta pregunta del dossier, la parte de transformar resultados iniciales en adquisición repetible queda menos desarrollada. Estas observaciones son revisión editorial, no cambios aplicados al texto de Lucía.
 
 **Lección específica:** mantener los aportes genuinos de la editora y usar el dossier como control de comprensión, sin forzar el relato del borrador alternativo. El cierre de Lucía confirma la continuidad 03 → 04 sobre precio rentable.
+
+## Nota de continuidad hacia el artículo 04 — 2026-11-01
+
+La conclusión del artículo final de Lucía plantea cuánto cobrar tras abordar el acceso a los primeros clientes, como recurso de continuidad **editorial**. En la práctica la hipótesis de precio y las condiciones se pueden investigar durante entrevistas y preparar antes de ofrecer una prueba o aceptar la primera venta; más adelante se recalculan usando el servicio real. Mantener la edición final de Lucía sin cambios y enseñar ese matiz en el artículo 04 y su dossier.
