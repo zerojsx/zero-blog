@@ -13,14 +13,21 @@ Estos títulos están **verificados como documentos en Drive**, sin verificació
 | 01 | Qué problema hace que una empresa pague por tu SaaS todos los meses | [Abrir](https://docs.google.com/document/d/1xw4F5HPd9vUQZ57UI3BYZBm4_cfx6h01mLLhL3eHZU0/edit) | Valor recurrente |
 | 02 | Por qué una empresa sigue usando Excel aunque tu software le ahorre trabajo | [Abrir](https://docs.google.com/document/d/1If3_iWyP8ncMbxL7cdbxufzIYl-FuKJsO52IG_u_JPE/edit) | Resistencia al cambio |
 | 03 | Cómo conseguir tus primeros clientes SaaS cuando todavía nadie te conoce | [Abrir](https://docs.google.com/document/d/1fF0u31aNcKwlZiyyyK5BUcthtJBpIF5qzGWT9adlzxU/edit) | Adquisición inicial; ver [ficha](03-primeros-clientes.md) |
-| 04 | Cómo ponerle precio a un SaaS y saber si cada cliente deja ganancia | [Abrir](https://docs.google.com/document/d/1BI3XDLTbEASVtL67kegMKTt2xYFgC7wfCdFz60On2e4/edit) | Precios y rentabilidad |
+| 04 | Cómo ponerle precio a un SaaS y saber si cada cliente deja ganancia | [Abrir](https://docs.google.com/document/d/1BI3XDLTbEASVtL67kegMKTt2xYFgC7wfCdFz60On2e4/edit) | Precios y rentabilidad; ver [ficha](04-precios-rentabilidad.md) |
 | 05 | Por qué un cliente abandona tu SaaS después de empezar a pagar | [Abrir](https://docs.google.com/document/d/1oQMhMv0ddlp0E8uyC8SQhy-blCP-053SFUUmxAyfC5o/edit) | Retención y cancelación |
+
+### Material nuevo de trabajo del artículo 04 (2026-11-01)
+
+- [Dossier teórico 04](https://docs.google.com/document/d/1IxHHQgJmqvzgOGPzpzZTlQ6UIDehvpzKiQx3vylW7UY/edit?usp=drivesdk): formación para editora, fuentes, glosario, preguntas y cinco cierres.
+- [Borrador editorial 04](https://docs.google.com/document/d/1wMaemHKUX8WzVfUNlwwa4X3LmbACmlUjbObWWCxn5Rw/edit?usp=drivesdk): 1.597 palabras, propuesta pendiente de revisión humana.
+- Los dos archivos están en Posteos y son distintos de la ficha 04 existente. No se confirmó publicación pública.
 
 ### Cómo elegir relaciones para un CTA
 - Artículo 03 → 04: primera venta → precio y ganancia. **Relación recomendada** para ese cierre.
 - Artículo 03 → 05: conseguir un cliente → evitar perderlo.
 - Artículo 03 → 02: lectura complementaria retrospectiva sobre resistencia a cambiar de herramienta, no anunciarla como “próxima”.
 - Artículo 03 → 01: retroceder a qué problema hace que se pague una suscripción.
+- Artículo 04 → 05: desde un precio sostenible hasta entender las cancelaciones; cierre preferido.
 - Para un cierre general, invitar a seguir la serie sin inventar fecha de publicación.
 
 ## Límite entre general y específico
