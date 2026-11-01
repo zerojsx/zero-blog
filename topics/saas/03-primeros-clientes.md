@@ -86,3 +86,13 @@ Se conserva el comienzo con un SaaS de turnos explicado desde el primer párrafo
 **Qué evitar al reutilizar:** no exigir 1.491 palabras, exactamente 19 párrafos, una peluquería, Netflix, cinco etapas o el CTA de precio en temas diferentes. Los límites antiguos de tres páginas y media correspondieron a una fase previa; no afirmar que el documento de 1.491 palabras sigue ocupando tres páginas sin volver a renderizarlo. Si el usuario solicita una nueva extensión, verificar el archivo resultante.
 
 **Protocolo de continuación para agentes:** consultar la skill → docs/VOICE.md → docs/PEDAGOGY.md → templates/ARTICLE-CRITERIA.md → ficha del tema → texto vigente en Drive. Si se propone un cambio, contrastarlo con esta aprobación; distinguir una sugerencia nueva de una corrección solicitada y evitar sobrescribir la versión de Lucía.
+
+## Revisión de entrega final de Lucía — 2026-11-01
+
+**Documento final compartido:** [03 Cómo conseguir tus primeros clientes SaaS final](https://docs.google.com/document/d/1hp22OXK6FhO9YOC_by8E25940aR_JeHOErxyic5UzgU/edit?usp=drivesdk). La versión actual de Lucía usa pizzerías y pedidos por WhatsApp como caso conductor; presenta dos encabezados funcionales, recupera una pregunta inicial y conserva las nociones de prospectos, prospección, canales, demostración, activación, prueba, pago, seguimiento y costo de atención. Frente a la alternativa de 1.491 palabras con peluquerías, condensa ejemplos y explicaciones, y transmite una identidad más ligada a un negocio cotidiano.
+
+**Aciertos observados:** caso central consistente en el arco comercial, pregunta inicial con tensión real, compresión de la jerga, conservación del paso de problema a prueba y pago, CTA pertinente hacia el tema 04.
+
+**Control pendiente antes de publicación:** reubicar bajo el subtítulo adecuado las explicaciones de canales que aparecen después de «Mostrar, probar y cobrar»; revisar el rol «recepcionista» en una pizzería, «encargado/dueño/gerente», tildes y espacios; matizar afirmaciones universales sobre la velocidad de recomendaciones. En la quinta pregunta del dossier, la parte de transformar resultados iniciales en adquisición repetible queda menos desarrollada. Estas observaciones son revisión editorial, no cambios aplicados al texto de Lucía.
+
+**Lección específica:** mantener los aportes genuinos de la editora y usar el dossier como control de comprensión, sin forzar el relato del borrador alternativo. El cierre de Lucía confirma la continuidad 03 → 04 sobre precio rentable.
