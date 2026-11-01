@@ -45,3 +45,9 @@ Si el usuario fija un límite de páginas, medirlo con el documento Word renderi
 7. **Identidad editorial:** conservar preguntas y giros humanos que aumenten comprensión; la reescritura propuesta solo interviene donde mejora precisión, causalidad o lectura.
 
 Este control deriva de comparar el borrador alternativo 03 con la entrega posterior de Lucía. Es una guía de revisión transferible, no una obligación de replicar su estructura en nuevos artículos.
+
+## Auditoría de coherencia causal y etapa comercial (2026-11-01)
+
+Antes de redactar o aprobar un artículo que enseña un proceso, establecer la **situación inicial del lector** y la secuencia real de decisiones. Formular tres comprobaciones: (a) ¿qué sabe y qué tiene el lector al comenzar?; (b) ¿qué decisiones deben ocurrir para llegar al resultado prometido?; (c) ¿el texto presupone un resultado que todavía debería ayudar a conseguir? Contrastar esa secuencia con fuentes profesionales y hechos del negocio, especialmente para precios, comercialización y desarrollo de software.
+
+Evitar el sesgo retrospectivo de explicar la etapa previa usando una historia que presupone clientes, pagos y uso existentes. Conservar una escena conductora sin anticipar hitos que aún no ocurrieron. Tratar precio como hipótesis comercial desde la investigación temprana, con cálculo de costos inicial y validación de disposición a pagar; recalcular con datos posteriores. Comparar cualquier ejemplo numérico con el alcance exacto de lo que demuestra: equilibrio hipotético es objetivo de cantidad, no validación de demanda. Revisar que un CTA entre artículos no induzca que el lector deba seguir el orden editorial como cronología obligatoria de su actividad.
