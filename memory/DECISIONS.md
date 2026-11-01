@@ -16,3 +16,7 @@ Registrar solo acuerdos estables o explícitamente aceptados. Detalles por artí
 | 2026-10-28 | Operación | Conservar contexto en niveles general/tema/artículo; actualizar índice y log conciso al aceptar cambios duraderos | AGENTS.md |
 
 **Evolución:** al cambiar una decisión, editar esta tabla para dejar vigente una sola versión, y registrar el cambio en LOG.md. Las ideas no aprobadas permanecen como hipótesis en la ficha de trabajo.
+
+## Decisión transversal aceptada por corrección explícita (2026-11-01)
+
+Antes de redactar un artículo sobre un proceso comercial, reconstruir su orden real de decisiones y precisar qué tiene el lector al comienzo; separar ruta editorial de ejecución práctica. En precios SaaS, la investigación y validación económica arranca antes de cerrar ventas y puede preceder a la construcción del producto. El precio inicial es una hipótesis que se revisa con evidencia comercial y operación efectiva. Fuentes y desarrollo en `docs/RESEARCH.md`, `docs/PEDAGOGY.md`, `templates/ARTICLE-CRITERIA.md` y `topics/saas/04-precios-rentabilidad.md`.
