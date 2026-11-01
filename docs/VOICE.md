@@ -31,3 +31,9 @@ Primero completar la idea. Después, si hay continuidad editorial, plantear una 
 La guía de estudio de la editora admite una voz más docente. Un dossier y un artículo final tienen funciones diferentes: las definiciones que el editor necesita pueden permanecer implícitas en el texto de publicación.
 
 Ver también: docs/PEDAGOGY.md y templates/ARTICLE-CRITERIA.md.
+
+## Aprendizaje de edición humana — SaaS 03 (2026-11-01)
+
+Un artículo puede ganar naturalidad cuando la editora adopta **una situación comercial reconocible como hilo conductor** y conserva vocabulario propio; la explicación debe permanecer causal y verificable. Abrir con una pregunta breve funciona cuando la escena siguiente la responde y presenta pronto el concepto central. Respetar la firma expresiva de la editora y elegir con criterio entre sus soluciones y las del borrador alternativo.
+
+**Revisión de ritmo:** los subtítulos, si se utilizan, deben anticipar fielmente lo que empieza inmediatamente después. No colocar canales de captación bajo una sección que promete demostración y cobro. Eliminar repeticiones de decisiones ya explicadas, corregir puntuación, tildes, espacios y términos incongruentes con el ejemplo (p. ej., roles de otro sector). Una frase categórica como «el camino más corto suele ser...» exige matiz o evidencia.
