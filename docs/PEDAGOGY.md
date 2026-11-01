@@ -38,3 +38,9 @@ No exigir que todos los artículos contengan estas mismas escenas. Usar el caso 
 Pedir una explicación en palabras propias, una comparación razonada, un caso práctico y una objeción crítica. Para artículos, plantear 4–6 preguntas fundamentales que deban quedar contestadas, sin dictar la arquitectura del texto.
 
 **No convertir un recurso didáctico en regla de redacción universal.** Netflix es un caso adecuado para explicar acceso por suscripción; para otro tema elegir un ejemplo cotidiano distinto.
+
+## Caso conductor y transferencia en una edición final (2026-11-01)
+
+Una editora puede sustituir el sector usado en el dossier o el borrador (p. ej., peluquería por pizzería) y conservar el aprendizaje si respeta las relaciones causales. Antes de aprobar, comprobar **coherencia sectorial** de personajes, tareas, fricciones, criterios de prueba y vocabulario de principio a fin. Mostrar un episodio de error, su consecuencia, la conversación comercial y una prueba medible puede enseñar varias nociones sin introducir ejemplos nuevos en cada párrafo. La transferencia a otros negocios puede quedar implícita cuando el principio está explicado.
+
+Evitar recortar tanto que desaparezca el puente entre observar resultados y decidir el próximo cambio. La última pregunta de una serie puede abrir continuidad editorial, pero el texto debe dejar un aprendizaje aplicable sobre el tema que promete resolver.
