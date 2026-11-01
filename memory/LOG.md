@@ -10,3 +10,5 @@ Formato: **AAAA-MM-DD | alcance | cambio | referencia**. Máximo una oración po
 
 - 2026-10-28 | SaaS 03 y edición breve | Se validó una apertura accesible y una versión condensada de tres páginas Word, preservando las cinco preguntas y el CTA de precios | templates/ARTICLE-CRITERIA.md, topics/saas/03-primeros-clientes.md
 - 2026-10-28 | redacción aprobada / SaaS 03 | Se validó en Drive la versión de 1.491 palabras y se formalizó cómo ampliar una narración mediante criterios de decisión y evaluación, manteniendo intacto el texto de Lucía | skills/zero-blog/SKILL.md, templates/ARTICLE-CRITERIA.md, topics/saas/03-primeros-clientes.md
+
+- 2026-11-01 | SaaS 03 y revisión general | Se comparó la entrega final de Lucía con el dossier y el borrador, preservando sus aportes y formalizando un control de coherencia de casos, secciones, cobertura, evidencia y corrección | docs/VOICE.md, docs/PEDAGOGY.md, templates/ARTICLE-CRITERIA.md, topics/saas/03-primeros-clientes.md
