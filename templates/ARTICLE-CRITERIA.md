@@ -33,3 +33,15 @@ Es una herramienta de análisis, no un texto que deba copiarse. Consultar la fic
 Antes de abreviar, identificar el recorrido que permite comprender el tema. Conservar una entrada comprensible para alguien ajeno al oficio, el mecanismo central, una aplicación práctica y las preguntas esenciales. Recortar primero repeticiones, escenas largas y ejemplos duplicados. Unificar explicaciones relacionadas en párrafos fluidos. Mantener las alternativas importantes, pero evitar catálogos de opciones y jerga que fuerce al lector a investigar por su cuenta.
 
 Si el usuario fija un límite de páginas, medirlo con el documento Word renderizado, con tamaño de letra y márgenes razonables. El número de palabras es orientativo; la cantidad de páginas debe verificarse. La longitud acordada es específica de cada artículo, no una norma para todos los contenidos.
+
+## Control de calidad al comparar borrador y entrega de la editora (2026-11-01)
+
+1. **Mapa de decisiones:** identificar qué ideas conserva, transforma, añade u omite la edición, sin tomar la coincidencia literal como medida de calidad.
+2. **Cobertura real:** cruzar el resultado con las preguntas esenciales del dossier; calificar como parcial cualquier pregunta que el texto solo menciona.
+3. **Hilo conductor:** verificar que el rubro, los actores y las operaciones permanezcan coherentes; los cambios de analogía requieren relectura de todos los roles.
+4. **Promesa de sección:** comprobar que los primeros párrafos de cada apartado desarrollen el título; mover o renombrar secciones si el argumento salta hacia atrás.
+5. **Disciplina de evidencia:** distinguir una recomendación contextual de una afirmación universal, y cifras ilustrativas de datos observados.
+6. **Corrección final:** puntuación, tildes, espacios, concordancia, frases comprimidas, redundancias y términos que un principiante no podría explicar.
+7. **Identidad editorial:** conservar preguntas y giros humanos que aumenten comprensión; la reescritura propuesta solo interviene donde mejora precisión, causalidad o lectura.
+
+Este control deriva de comparar el borrador alternativo 03 con la entrega posterior de Lucía. Es una guía de revisión transferible, no una obligación de replicar su estructura en nuevos artículos.
