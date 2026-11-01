@@ -13,3 +13,5 @@ Formato: **AAAA-MM-DD | alcance | cambio | referencia**. Máximo una oración po
 
 - 2026-11-01 | SaaS 03 y revisión general | Se comparó la entrega final de Lucía con el dossier y el borrador, preservando sus aportes y formalizando un control de coherencia de casos, secciones, cobertura, evidencia y corrección | docs/VOICE.md, docs/PEDAGOGY.md, templates/ARTICLE-CRITERIA.md, topics/saas/03-primeros-clientes.md
 - 2026-11-01 | SaaS / artículo 04 | Se crearon en Posteos un dossier fundamentado y un borrador editorial narrativo de 1.597 palabras, se vinculó su ficha y quedó en revisión humana | topics/saas/04-precios-rentabilidad.md, topics/saas/INDEX.md
+
+- 2026-11-01 | corrección integral SaaS 04 | Se replanteó precio desde validación preproducto y preprimera venta, se reescribieron dossier y borrador en los documentos originales y se actualizó la skill y los criterios de coherencia temporal | topics/saas/04-precios-rentabilidad.md, docs/PEDAGOGY.md, docs/RESEARCH.md, templates/ARTICLE-CRITERIA.md
