@@ -35,3 +35,7 @@ Los mecanismos de investigación, pedagogía, preguntas de lectura y CTA son reu
 
 ## Crear o actualizar fichas
 Cada artículo necesita: título confirmado, pregunta principal, dossier y fuentes con URL, cinco preguntas mínimas o equivalentes, conclusiones editoriales y posibles lecturas posteriores. Actualizar este índice si cambian títulos, rutas, orden, estado comprobado o enlaces.
+
+## Corrección de secuencia real del artículo 04 (2026-11-01)
+
+El orden editorial 03 → 04 ayuda a leer progresivamente, pero las decisiones de precio empiezan antes de cerrar una primera venta y frecuentemente antes de construir el SaaS. En la ficha [04-precios-rentabilidad.md](04-precios-rentabilidad.md) se documenta la revisión integral del dossier y borrador, ahora centrados en problema → comprador → valor → hipótesis de precio → costos → validación → desarrollo y venta → revisión. Conservar el artículo final de Lucía intacto; no convertir la narración de 03 en una secuencia comercial obligatoria.
