@@ -62,3 +62,6 @@ Referencias canónicas para este aprendizaje: docs/PEDAGOGY.md (enseñanza progr
 - ¿El artículo responde las preguntas necesarias sin una plantilla rígida?
 - ¿El CTA deriva de una nueva decisión del lector y corresponde a un artículo real o planificado?
 - ¿Quedó asentado el aprendizaje aceptado en el lugar correcto?
+
+### Incorporación de aprendizajes de una entrega humana
+Cuando existe dossier, borrador de referencia y versión final de editora, comparar los tres antes de construir la pieza siguiente. Identificar aportes sustantivos de la editora (escena conductora, preguntas iniciales, economía narrativa, voz propia) y omisiones de conocimiento. Conservar las soluciones que aumentan comprensión; revisar aparte exactitud, progresión, coherencia entre roles y títulos de sección, y corrección ortotipográfica. Documentar el aprendizaje transversal en `templates/ARTICLE-CRITERIA.md`, la pedagogía en `docs/PEDAGOGY.md`, la voz en `docs/VOICE.md` y las decisiones específicas en la ficha del artículo. Evitar convertir el ejemplo o la longitud de una entrega en plantilla universal.
