@@ -12,6 +12,7 @@ Este archivo responde **qué leer**, **cuándo** y **dónde actualizar**.
 | Revisar un artículo | templates/ARTICLE-CRITERIA.md | Ficha de artículo y reglas reutilizables |
 | Trabajar SaaS | topics/saas/INDEX.md | topics/saas/ |
 | Artículo 03: primeros clientes SaaS | topics/saas/03-primeros-clientes.md | Esa ficha |
+| Artículo 04: precio y rentabilidad SaaS | topics/saas/04-precios-rentabilidad.md | Esa ficha |
 | Ver decisiones vigentes | memory/DECISIONS.md | memory/DECISIONS.md |
 | Ver últimas modificaciones relevantes | memory/LOG.md | memory/LOG.md |
 
